@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>How does a fully connected network process an image?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">By flattening it into a one-dimensional sequence</choice>
+                <choice correct="false">By converting it to a matrix</choice>
+                <choice correct="false">By applying filters to it</choice>
+                <choice correct="false">By rotating it</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

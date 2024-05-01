@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main concept behind CycleGAN?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Unpaired translation between domains</choice>
+                <choice correct="false">Paired translation between domains</choice>
+                <choice correct="false">Noise to target generation</choice>
+                <choice correct="false">Supervised learning for translation</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

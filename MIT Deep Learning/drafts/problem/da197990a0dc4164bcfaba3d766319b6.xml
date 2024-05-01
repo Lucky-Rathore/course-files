@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is Capsa?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">An open-source risk-aware AI wrapper</choice>
+                <choice correct="false">A training algorithm</choice>
+                <choice correct="false">A data set</choice>
+                <choice correct="false">A machine learning model</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

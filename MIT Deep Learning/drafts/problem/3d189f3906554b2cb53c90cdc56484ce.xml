@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the reference text, what is the intuitive reason why p≫nd is called "dramatic overparameterization"?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Memorizing n data points requires n parameters</choice>
+                <choice correct="true">David Hessler and Eric Palm showed that a two-layer neural network with threshold activation function requires an order of magnitude more parameters than the number of data points</choice>
+                <choice correct="false">Neural tangent kernels provide a closed-form solution for the learning dynamics of a neural network with infinite width</choice>
+                <choice correct="false">The neural tangent kernel theory applies to neural networks with a finite number of parameters</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

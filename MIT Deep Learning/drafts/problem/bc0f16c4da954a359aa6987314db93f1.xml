@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is one of the key differences between the building blocks of artificial neural networks and biological neural networks?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">The communication between nodes in artificial neural networks is a continuous time process.</choice>
+                <choice correct="true">The synaptic release in biological neural networks is a scalar rate.</choice>
+                <choice correct="false">The interaction between neurons in biological neural networks is a discrete process.</choice>
+                <choice correct="false">Artificial neural networks have massive parallelization and recurrence, while biological neural networks do not.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

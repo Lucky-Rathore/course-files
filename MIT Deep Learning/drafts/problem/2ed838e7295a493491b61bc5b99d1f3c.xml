@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the goal of backpropagation through time (BPTT)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">To train the weights of an RNN to minimize the overall loss.</choice>
+                <choice correct="false">To unroll the RNN and compute the gradient with respect to each weight.</choice>
+                <choice correct="false">To propagate the loss through each individual time step.</choice>
+                <choice correct="true">All of the above.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

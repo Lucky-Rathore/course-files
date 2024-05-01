@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>In what field is reinforcement learning commonly applied?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Robotics and autonomy</choice>
+                <choice correct="false">Healthcare and medicine</choice>
+                <choice correct="false">Finance and economics</choice>
+                <choice correct="false">Social media and marketing</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

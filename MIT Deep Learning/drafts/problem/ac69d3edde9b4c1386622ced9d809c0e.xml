@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main goal of a GAN's discriminator?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">To produce fake data</choice>
+                <choice correct="true">To predict the probability that an instance is real or fake</choice>
+                <choice correct="false">To generate random noise</choice>
+                <choice correct="false">To adjust the probability of fake data</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

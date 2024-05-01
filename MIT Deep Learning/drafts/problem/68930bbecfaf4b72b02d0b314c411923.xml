@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the basic structure of an RNN in TensorFlow?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Layer operation and layer class</choice>
+                <choice correct="false">Input layer and output layer</choice>
+                <choice correct="false">Hidden layer and output layer</choice>
+                <choice correct="false">Convolutional layer and pooling layer</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

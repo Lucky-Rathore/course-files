@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a design criterion for sequential modeling?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Sequences can be of different lengths</choice>
+                <choice correct="false">Model should handle different dependencies</choice>
+                <choice correct="true">Order of observations does not affect prediction</choice>
+                <choice correct="false">Parameter sharing is required</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the text, what is the name of the recruitment platform for Themis?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">careers@themesai.io</choice>
+                <choice correct="false">deeplearningjobs@themis.io</choice>
+                <choice correct="false">resumes@themis.ai</choice>
+                <choice correct="false">application@themis.com</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

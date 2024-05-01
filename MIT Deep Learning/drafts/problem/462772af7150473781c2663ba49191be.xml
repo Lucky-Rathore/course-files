@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to Moore's Law, what happens as the size of a deep learning model increases?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Performance improves.</choice>
+                <choice correct="false">Performance decreases.</choice>
+                <choice correct="false">Performance remains the same.</choice>
+                <choice correct="false">The model becomes more unstable.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

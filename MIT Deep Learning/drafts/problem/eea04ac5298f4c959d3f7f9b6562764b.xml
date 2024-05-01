@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>How does an RNN update its internal state and generate a predicted output?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">By multiplying input data and weight matrices and applying a non-linearity</choice>
+                <choice correct="false">By randomly generating new values for the state and output</choice>
+                <choice correct="false">By using a recurrent function that loops back on itself</choice>
+                <choice correct="false">By comparing the predicted output to the true label</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

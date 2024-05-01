@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of the neural network in the given scenario?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To predict whether a student will pass or fail a class</choice>
+                <choice correct="false">To generate course schedules</choice>
+                <choice correct="false">To evaluate student performance</choice>
+                <choice correct="false">To provide personalized feedback to students</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

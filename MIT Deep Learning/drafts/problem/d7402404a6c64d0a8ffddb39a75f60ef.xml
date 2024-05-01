@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the lecture, what is a key concept in CNN applications?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Feature extraction and detection</choice>
+                <choice correct="false">Generative modeling</choice>
+                <choice correct="false">Software lab participation</choice>
+                <choice correct="false">Network cropping</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

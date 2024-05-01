@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the key idea behind recurrent neural networks (RNNs)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Maintaining state and updating it at each time step</choice>
+                <choice correct="false">Processing sequential data in reverse order</choice>
+                <choice correct="false">Learning a function that depends on the input only</choice>
+                <choice correct="false">Using a different set of weights at each time step</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

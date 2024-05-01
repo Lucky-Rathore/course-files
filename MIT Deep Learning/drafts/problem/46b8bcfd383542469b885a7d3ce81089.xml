@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the first step in training a policy gradient network?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Initialize the agent and collect data</choice>
+                <choice correct="false">Update the policy network</choice>
+                <choice correct="false">Calculate the loss function</choice>
+                <choice correct="false">Compute the gradient of the loss function</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>In classical statistics, accuracy generally increases as models become larger, but eventually plateaus or even decreases due to overfitting. What is this plateau or decrease referred to as?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Underfitting regime</choice>
+                <choice correct="false">Overfitting regime</choice>
+                <choice correct="false">Overparametrization regime</choice>
+                <choice correct="false">Optimal model size</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

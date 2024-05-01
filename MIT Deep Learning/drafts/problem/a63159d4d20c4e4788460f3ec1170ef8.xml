@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of latent perturbation in VAEs?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To interpret the meaning of latent variables</choice>
+                <choice correct="false">To improve the reconstruction quality</choice>
+                <choice correct="false">To reduce the dimensionality of the latent space</choice>
+                <choice correct="false">To prevent overfitting</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

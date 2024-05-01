@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the passage, what is the key difference between policy learning algorithms and Q learning algorithms?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Policy learning algorithms attempt to directly learn the policy function from the data, while Q learning algorithms infer the policy from the Q function.</choice>
+                <choice correct="false">Q learning algorithms attempt to directly learn the policy function from the data, while policy learning algorithms infer the policy from the Q function.</choice>
+                <choice correct="false">Policy learning algorithms and Q learning algorithms use the same methods to learn the policy.</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

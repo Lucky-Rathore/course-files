@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which topic is discussed in the reference text?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Convolutional Neural Networks</choice>
+                <choice correct="false">Natural Language Processing</choice>
+                <choice correct="false">Machine Learning for Healthcare</choice>
+                <choice correct="false">Data Visualization</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the lecture, what is one of the key strengths of Convolutional Neural Networks (CNNs)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Their flexibility and extensibility to various applications</choice>
+                <choice correct="false">Their ability to perform medical decision-making</choice>
+                <choice correct="false">Their accuracy in image segmentation</choice>
+                <choice correct="false">Their speed in performing image captioning</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

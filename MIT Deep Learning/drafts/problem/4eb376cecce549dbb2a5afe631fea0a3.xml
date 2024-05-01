@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the fundamental building block of a neural network called?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Perceptron</choice>
+                <choice correct="false">Neuron</choice>
+                <choice correct="false">Synapse</choice>
+                <choice correct="false">Dendrite</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the most intuitive form of bias in the AI lifecycle?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Sampling bias</choice>
+                <choice correct="false">Selection bias</choice>
+                <choice correct="false">Distribution bias</choice>
+                <choice correct="false">Evaluation bias</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

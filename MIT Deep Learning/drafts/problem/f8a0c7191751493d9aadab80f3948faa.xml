@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the name of the photorealistic simulation engine developed at MIT?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">VISTA</choice>
+                <choice correct="false">SimCity</choice>
+                <choice correct="false">Unreal Engine</choice>
+                <choice correct="false">Unity</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

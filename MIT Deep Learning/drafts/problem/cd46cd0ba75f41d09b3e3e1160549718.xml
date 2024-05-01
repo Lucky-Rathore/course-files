@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>The primary purpose of LSTMs is to:</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Control the flow of information through gates</choice>
+                <choice correct="false">Eliminate the vanishing gradient problem</choice>
+                <choice correct="false">Track and handle long-term dependencies in data</choice>
+                <choice correct="false">Filter out irrelevant information</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main goal of self-attention in Transformers?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To eliminate recurrence and attend to important features in the input data</choice>
+                <choice correct="false">To compute positional encodings for the input data</choice>
+                <choice correct="false">To extract features that deserve high attention</choice>
+                <choice correct="false">To build a single self-attention head</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

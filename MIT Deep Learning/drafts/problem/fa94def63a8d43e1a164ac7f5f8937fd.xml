@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main goal of attention in neural networks like Transformers?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To identify and attend to features in input data that are relevant to its semantic meaning</choice>
+                <choice correct="false">To process data sequentially in a recurrent manner</choice>
+                <choice correct="false">To generate new data based on a given input</choice>
+                <choice correct="false">To compress data into a smaller size</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a benefit of Deep Q Networks (DQNs)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Ability to learn the Q function directly</choice>
+                <choice correct="false">High efficiency for large action spaces</choice>
+                <choice correct="true">Robustness to noise and uncertainty</choice>
+                <choice correct="false">Requirement for ground truth labels</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

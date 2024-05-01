@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which type of vehicle is mentioned as being likely to be moving?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">White van</choice>
+                <choice correct="true">Yellow taxi</choice>
+                <choice correct="false">Blue car</choice>
+                <choice correct="false">Red motorcycle</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

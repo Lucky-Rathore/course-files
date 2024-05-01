@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the text, what is the primary purpose of DB-VAE mathematics?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To approximate the latent space of data points through a joint histogram.</choice>
+                <choice correct="false">To generate new data points from a given latent space.</choice>
+                <choice correct="false">To reduce the dimensionality of data points.</choice>
+                <choice correct="false">To improve the accuracy of neural networks.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

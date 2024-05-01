@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the mathematical operation that describes the process of applying a filter to an input image?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Convolution</choice>
+                <choice correct="false">Pooling</choice>
+                <choice correct="false">Normalization</choice>
+                <choice correct="false">Activation</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

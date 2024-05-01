@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the key motivation behind reinforcement learning?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To learn through trial and error without explicit human supervision</choice>
+                <choice correct="false">To achieve perfect accuracy on a given data set</choice>
+                <choice correct="false">To build models that can generate creative content</choice>
+                <choice correct="false">To understand the underlying principles of artificial intelligence</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

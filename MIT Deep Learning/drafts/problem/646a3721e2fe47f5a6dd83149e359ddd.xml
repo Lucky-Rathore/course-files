@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the first step in computing the output of a perceptron?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Multiply the inputs by their weights</choice>
+                <choice correct="false">Apply a nonlinearity to the weighted sum</choice>
+                <choice correct="false">Subtract the bias from the weighted sum</choice>
+                <choice correct="false">Normalize the inputs</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

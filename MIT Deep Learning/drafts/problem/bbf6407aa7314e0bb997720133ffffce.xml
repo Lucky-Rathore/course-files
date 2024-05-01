@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the focus of Themis AI's technical engineering and machine learning team?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Developing flexible and modular platforms for robust AI</choice>
+                <choice correct="false">Designing AI solutions for specific industries</choice>
+                <choice correct="false">Improving the performance of deep learning models</choice>
+                <choice correct="false">Building AI systems that are resistant to adversarial attacks</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which model is NOT a diffusion model?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Dali 2</choice>
+                <choice correct="false">Muse</choice>
+                <choice correct="false">Stable Diffusion</choice>
+                <choice correct="false">Imagine</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main topic of the lecture?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Recurrent Neural Networks</choice>
+                <choice correct="false">Transformers</choice>
+                <choice correct="false">Attention</choice>
+                <choice correct="true">All of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

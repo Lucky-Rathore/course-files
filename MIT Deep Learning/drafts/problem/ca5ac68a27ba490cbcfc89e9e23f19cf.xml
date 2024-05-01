@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>In the game of Atari Breakout, what is the objective?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To eliminate all the rainbow pixels</choice>
+                <choice correct="false">To keep the ball bouncing off the paddle indefinitely</choice>
+                <choice correct="false">To move the paddle as far to the left as possible</choice>
+                <choice correct="false">To hit the ball as many times as possible</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

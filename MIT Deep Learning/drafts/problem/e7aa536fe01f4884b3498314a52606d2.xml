@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is a key advantage of deep learning algorithms in computer vision?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Ability to learn directly from raw data</choice>
+                <choice correct="false">High accuracy in object recognition</choice>
+                <choice correct="false">Low computational cost</choice>
+                <choice correct="false">Resistance to noise and distortion</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

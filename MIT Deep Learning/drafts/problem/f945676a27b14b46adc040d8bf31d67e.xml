@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main focus of Lecture 2?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Sequence modeling</choice>
+                <choice correct="false">Perceptrons</choice>
+                <choice correct="false">Feed forward models</choice>
+                <choice correct="false">Neural network deployment</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

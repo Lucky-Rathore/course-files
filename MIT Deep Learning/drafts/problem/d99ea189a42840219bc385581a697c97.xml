@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>How is conditioning a GAN achieved?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">By supplying a label to both the generator and the discriminator</choice>
+                <choice correct="false">By modifying the loss function</choice>
+                <choice correct="false">By adding an additional layer to the network</choice>
+                <choice correct="false">By changing the activation function</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

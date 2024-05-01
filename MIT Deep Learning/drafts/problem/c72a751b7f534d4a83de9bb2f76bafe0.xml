@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of a loss function in neural networks?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To evaluate the performance of the neural network and guide its training</choice>
+                <choice correct="false">To generate predictions for new data</choice>
+                <choice correct="false">To optimize the weights and biases of the neural network</choice>
+                <choice correct="false">To prevent overfitting</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

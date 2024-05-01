@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Why do sequential processing tasks require different neural network implementations?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">They require specialized layers for handling sequences.</choice>
+                <choice correct="false">They cannot be trained using traditional backpropagation.</choice>
+                <choice correct="false">They require a different loss function.</choice>
+                <choice correct="false">They are not as efficient as other neural network types.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

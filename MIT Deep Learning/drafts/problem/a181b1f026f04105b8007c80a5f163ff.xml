@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is a benefit of using uncertainty and bias mitigation in AI?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Unlocking new solutions for developing safe and responsible AI</choice>
+                <choice correct="false">Improving model accuracy and performance</choice>
+                <choice correct="false">Reducing the cost of AI development</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

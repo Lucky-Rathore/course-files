@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is a key difference between standard recurrent neural networks and neural ordinary differential equations (neural ODEs)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Standard recurrent neural networks update the Hidden State in discrete steps, while Neural ODEs update it continuously.</choice>
+                <choice correct="false">Neural ODEs are more stable than standard recurrent neural networks.</choice>
+                <choice correct="false">Neural ODEs use a damping factor to control the dynamics of the Hidden State.</choice>
+                <choice correct="true">All of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

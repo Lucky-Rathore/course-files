@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is generative modeling?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Building systems that can generate new data instances based on learned patterns</choice>
+                <choice correct="false">A subset of supervised learning</choice>
+                <choice correct="false">A method of understanding the hidden structure of data</choice>
+                <choice correct="false">A technique for generating new labels for data</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

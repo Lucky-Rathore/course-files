@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of enforcing a standard normal Gaussian distribution on latent variables in variational autoencoders?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To encourage smoothness and continuity in the latent space</choice>
+                <choice correct="false">To make the decoder more efficient</choice>
+                <choice correct="false">To reduce the computational cost of training</choice>
+                <choice correct="false">To improve the reconstruction accuracy</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

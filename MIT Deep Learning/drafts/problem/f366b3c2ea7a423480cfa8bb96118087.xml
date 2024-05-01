@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main difference between object detection and classification?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Object detection involves drawing bounding boxes around objects, while classification predicts only the presence or absence of objects.</choice>
+                <choice correct="false">Object detection can only detect a single object in an image, while classification can detect multiple objects.</choice>
+                <choice correct="false">Object detection is a more difficult problem than classification.</choice>
+                <choice correct="false">Object detection and classification use different types of neural networks.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

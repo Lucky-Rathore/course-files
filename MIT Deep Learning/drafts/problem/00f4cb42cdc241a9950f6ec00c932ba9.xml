@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a type of learning covered in the course?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Supervised learning</choice>
+                <choice correct="false">Unsupervised learning</choice>
+                <choice correct="true">Semi-supervised learning</choice>
+                <choice correct="false">Reinforcement learning</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

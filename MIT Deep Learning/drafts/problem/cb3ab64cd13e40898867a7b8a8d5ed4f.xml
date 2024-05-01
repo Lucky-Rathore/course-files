@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What was the main reason for the significant speed difference between Muse and previous models?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Parallel decoding</choice>
+                <choice correct="false">Improved data pre-processing</choice>
+                <choice correct="false">Optimized training algorithms</choice>
+                <choice correct="false">Reduced number of forward passes</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

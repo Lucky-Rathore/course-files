@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a type of uncertainty in AI?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Data uncertainty</choice>
+                <choice correct="true">Statistical uncertainty</choice>
+                <choice correct="false">Model uncertainty</choice>
+                <choice correct="false">Epistemic uncertainty</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

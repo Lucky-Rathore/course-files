@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What type of models are discussed in the text?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Latent variable models</choice>
+                <choice correct="false">Generative models</choice>
+                <choice correct="false">Discriminative models</choice>
+                <choice correct="false">Regression models</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

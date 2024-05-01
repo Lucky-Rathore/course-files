@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main focus of MIT 6.S191 (2023)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Deep Generative Modeling</choice>
+                <choice correct="false">Deep Learning Algorithms</choice>
+                <choice correct="false">Computer Vision</choice>
+                <choice correct="false">Natural Language Processing</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

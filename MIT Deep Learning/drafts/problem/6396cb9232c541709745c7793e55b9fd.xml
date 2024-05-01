@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Convolution involves performing what operation between the filter and image patch?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Element-wise multiplication</choice>
+                <choice correct="false">Addition</choice>
+                <choice correct="false">Subtraction</choice>
+                <choice correct="false">Division</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

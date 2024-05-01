@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is a key component of the training process in MIT 6.S191 (2023): Text-to-Image Generation?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Variable ratio masking</choice>
+                <choice correct="false">VQ tokenizer</choice>
+                <choice correct="false">Fixed ratio masking</choice>
+                <choice correct="false">Image cropping</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

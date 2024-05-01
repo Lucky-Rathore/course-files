@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is diffusion in the context of deep learning?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">A method for generating images from noise.</choice>
+                <choice correct="false">A method for stabilizing the training of deep learning models.</choice>
+                <choice correct="false">A method for reducing the memory usage of deep learning models.</choice>
+                <choice correct="false">A method for speeding up the training of deep learning models.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the key idea behind the reparameterization trick?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Defining latent variables as a sum of a fixed mean, fixed standard deviation, and a random constant drawn from a normal distribution</choice>
+                <choice correct="false">Replacing the sampling operation with a deterministic one</choice>
+                <choice correct="false">Diverting all randomness to a constant epsilon drawn from a normal distribution</choice>
+                <choice correct="false">None of the above</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

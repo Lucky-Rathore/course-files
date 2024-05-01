@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What are two key components towards achieving safe and trustworthy deployment of AI?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Bias and uncertainty</choice>
+                <choice correct="false">Performance and accuracy</choice>
+                <choice correct="false">Interpretability and explainability</choice>
+                <choice correct="false">Security and privacy</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

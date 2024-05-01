@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Where did Themis AI originate?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Stanford University</choice>
+                <choice correct="false">Carnegie Mellon University</choice>
+                <choice correct="true">Massachusetts Institute of Technology</choice>
+                <choice correct="false">University of California, Berkeley</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Why have there been a lot of attention in how we can move beyond the notion of step-by-step recurrent processing?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To build more powerful architectures for processing sequential data</choice>
+                <choice correct="false">To eliminate the need for recurrence entirely</choice>
+                <choice correct="false">To establish long memory that can build nuanced understanding of sequential data</choice>
+                <choice correct="false">To parallelize computations to speed up processing</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

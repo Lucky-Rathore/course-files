@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the main idea behind the concept of scale as a law of robustness?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Neural networks must be parametrized equal to or greater than the dimensionality of the data set to achieve robustness.</choice>
+                <choice correct="false">Adding label noise to a data set makes it more difficult for neural networks to learn.</choice>
+                <choice correct="false">Lipchitz functions are those that change their output linearly proportional to changes in their input.</choice>
+                <choice correct="false">Memorization in machine learning refers to perfectly fitting a model to a training set.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

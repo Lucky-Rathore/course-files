@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the ultimate goal of training a neural network?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Minimize the empirical risk</choice>
+                <choice correct="false">Maximize the accuracy</choice>
+                <choice correct="false">Find the optimal weights</choice>
+                <choice correct="false">Reduce the number of iterations</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

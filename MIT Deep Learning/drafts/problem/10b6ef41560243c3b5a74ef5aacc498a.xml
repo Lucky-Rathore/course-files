@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the mission of Themis AI?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To design, advance, and deploy trustworthy AI</choice>
+                <choice correct="false">To develop autonomous robots for healthcare</choice>
+                <choice correct="false">To conduct research on bias in AI algorithms</choice>
+                <choice correct="false">To train machine learning engineers</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

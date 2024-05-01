@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the foundational mechanism of the Transformer architecture?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Attention</choice>
+                <choice correct="false">Self-attention</choice>
+                <choice correct="false">Recurrent neural networks</choice>
+                <choice correct="false">Convolutional neural networks</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

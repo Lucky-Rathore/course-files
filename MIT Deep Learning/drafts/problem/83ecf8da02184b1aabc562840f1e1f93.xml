@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of an embedding vector in an RNN network?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To transform text-based data into a numerical encoding</choice>
+                <choice correct="false">To learn a neural network that captures inherent meaning in the data</choice>
+                <choice correct="false">To handle variable length sequences</choice>
+                <choice correct="false">To maintain dependencies across different lengths</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

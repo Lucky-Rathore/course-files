@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following are considered fundamental building blocks of neural networks?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Single neuron (perceptron)</choice>
+                <choice correct="false">Neural layers</choice>
+                <choice correct="false">Deep neural networks</choice>
+                <choice correct="false">RNNs</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

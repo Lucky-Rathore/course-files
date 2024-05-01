@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a limitation of RNNs?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Encoding bottleneck</choice>
+                <choice correct="false">Slow processing</choice>
+                <choice correct="true">Parallelizability</choice>
+                <choice correct="false">Short memory capacity</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

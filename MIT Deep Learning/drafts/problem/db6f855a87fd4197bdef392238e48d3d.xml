@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Where does the speaker work?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">MIT</choice>
+                <choice correct="true">Google Research</choice>
+                <choice correct="false">Harvard</choice>
+                <choice correct="false">OpenAI</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

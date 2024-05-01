@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following is NOT a major challenge for robust deep learning?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Bias</choice>
+                <choice correct="false">Uncertainty</choice>
+                <choice correct="true">Fairness</choice>
+                <choice correct="false">Explainability</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

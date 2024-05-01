@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Which of the following describes epistemic uncertainty?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Uncertainty in the model itself that can be reduced by adding data</choice>
+                <choice correct="false">Uncertainty in the input data that cannot be reduced</choice>
+                <choice correct="false">Uncertainty in the predictions of the model due to randomness</choice>
+                <choice correct="false">Uncertainty in the model's ability to generalize to unseen data</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

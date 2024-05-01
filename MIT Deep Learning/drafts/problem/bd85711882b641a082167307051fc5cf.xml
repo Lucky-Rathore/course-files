@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the benefit of having prior information about a sequence?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">It allows us to make more accurate predictions.</choice>
+                <choice correct="false">It reduces the amount of data we need to collect.</choice>
+                <choice correct="false">It speeds up the training process.</choice>
+                <choice correct="false">It eliminates the need for a model.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

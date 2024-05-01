@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the lecture, what is the main driving force behind the advancements in generative AI in the past year?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Diffusion models</choice>
+                <choice correct="false">Generative adversarial networks (GANs)</choice>
+                <choice correct="false">Variational autoencoders (VAEs)</choice>
+                <choice correct="false">Pixel CNNs</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

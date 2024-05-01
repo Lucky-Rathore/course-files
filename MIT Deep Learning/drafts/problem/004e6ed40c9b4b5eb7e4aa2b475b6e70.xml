@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is the purpose of negative prompting?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">To exclude undesirable concepts from the generated image.</choice>
+                <choice correct="false">To force the model to include specific concepts in the image.</choice>
+                <choice correct="false">To improve the overall quality of the generated image.</choice>
+                <choice correct="false">To reduce the time it takes to generate the image.</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>What is overfitting?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">When a model starts to represent the training data more than the testing data</choice>
+                <choice correct="false">When a model is too complex and captures nuances that are not representative of the test data</choice>
+                <choice correct="false">When a model is too simple and cannot accurately capture the patterns in the data</choice>
+                <choice correct="false">When a model is trained for too long and starts to memorize the training data</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

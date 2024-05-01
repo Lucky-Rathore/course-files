@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>In computer vision, what are pixels?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">Dots in an image</choice>
+                <choice correct="false">Numbers representing an image</choice>
+                <choice correct="false">Patterns in an image</choice>
+                <choice correct="false">Features in an image</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

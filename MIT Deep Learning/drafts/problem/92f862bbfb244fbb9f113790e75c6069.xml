@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>Who is one of the course organizers for MIT Introduction to Deep Learning (2023)?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="false">Alexander Amini</choice>
+                <choice correct="false">Ava</choice>
+                <choice correct="false">Neither Alexander Amini nor Ava</choice>
+                <choice correct="true">Both Alexander Amini and Ava</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    

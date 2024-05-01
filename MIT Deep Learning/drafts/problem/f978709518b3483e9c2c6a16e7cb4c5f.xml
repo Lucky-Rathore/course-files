@@ -1,0 +1,14 @@
+
+    <problem display_name="Multiple Choice">
+        <multiplechoiceresponse>
+            <label>According to the speaker, what is the minimum number of parameters needed to robustly fit the MNIST dataset?</label>
+            <description>You can add an optional tip or note related to the prompt like this.</description>
+            <choicegroup>
+                <choice correct="true">10 to the power 6</choice>
+                <choice correct="false">10 to the power 5</choice>
+                <choice correct="false">10 to the power 3</choice>
+                <choice correct="false">10 to the power 8</choice>
+            </choicegroup>
+        </multiplechoiceresponse>
+    </problem>
+    
